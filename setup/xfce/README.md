@@ -1,3 +1,6 @@
+
+
+
 sudo dnf -y install @xfce-desktop-environment
 sudo dnf install -y xfce4-whiskermenu-plugin arc-theme paper-icon-theme xfce4-panel-profiles
 
