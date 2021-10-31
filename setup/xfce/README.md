@@ -1,5 +1,5 @@
 # Setup script
 
 
-`git clone https://github.com/dgthanhan/themes.git; cd themes/setup/xfce; /bin/sh setup.sh`
+`curl -0 -L https://github.com/dgthanhan/themes/raw/master/setup/xfce/setup.sh -o ~/theme-setup.sh; /bin/sh ~/theme-setup.sh`
 
